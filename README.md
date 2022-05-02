@@ -5,6 +5,8 @@ It's simple you are given a text box saying you have a virus on your PC then you
 
 You might get a Blue Screen straight away.
 
+If you decide to review this fake virus on YouTube then I really appreciate you reviewing this fake virus, just link both the links below or just the link to this github repository.
+
 # Purpose of each file
 SilentCMD.exe - To hide CMD windows.
 
@@ -44,13 +46,15 @@ I also used Google for help with mostly the VBS scripts.
 
 Took an entire day to make this.
 
+# Stuff to link in description if reviewing
+YouTube Channel: https://www.youtube.com/channel/UC0EaHOKwmGh61OJSPKO27kg
+GitHub: https://github.com/Official-IceCreeperPE/Blue-Screen-PC-fake-virus
 
 
 
 
 
 
-
-
-
+# Here is what i will not do for you :)
 No I won't make a fake virus for you :)
+I'm trash at making viruses anyway.
