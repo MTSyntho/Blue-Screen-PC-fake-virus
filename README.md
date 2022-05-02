@@ -27,6 +27,8 @@ startwscript.bat - Uses SilentCMD.exe to hide wscript.exe
 wscript.exe - Checks if you kill wscript.exe and if killed it will force bluescreen.
 
 # Extra Info
+The compiled version has a 100 megabyte file for no reason.
+
 This was compiled using WinRAR SFX Archive.
 
 The timing for the bluescreen is too small in launcher.bat.
